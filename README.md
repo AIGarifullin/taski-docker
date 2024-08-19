@@ -86,7 +86,7 @@ docker compose exec backend python manage.py migrate
     git commit -m 'Add Actions'
     git push
     ```
-    Для управления процессами *CI/CD* (*Continuous Integration/Continuous Delivery*) открыть раздел *Actions* в репозитории проекта в своем аккаунте.
+    Для управления процессами *CI/CD* (*Continuous Integration/Continuous Delivery*) открыть раздел *Actions* в репозитории проекта в своем аккаунте GitHub.
 
 
 _Текст данного файла составил [Адель Гарифуллин](https://github.com/AIGarifullin)._
